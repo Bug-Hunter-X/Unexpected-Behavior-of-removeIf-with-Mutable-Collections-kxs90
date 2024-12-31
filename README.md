@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug related to Kotlin's `removeIf` function. While it functions as expected on lists, its behavior with sets and maps can be counterintuitive and is not clearly explained in the official documentation.  The `bug.kt` file shows this unexpected behavior, while `bugSolution.kt` offers a solution and explanation.
